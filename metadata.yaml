@@ -1,5 +1,8 @@
 _repo: Manual-of-Library-Cataloguing_55887
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 55887-h/images/cover.jpg
 creator:
   author:
     agent_name: Quinn, John Henry
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '44899'
     url: http://www.gutenberg.org/2009/agents/44899
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55887#Manual-of-Library-Cataloguing
 gutenberg_issued: '2017-11-04'
 gutenberg_type: Text
 identifiers:
